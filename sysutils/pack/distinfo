@@ -1,0 +1,5 @@
+TIMESTAMP = 1770246919
+SHA256 (go/sysutils_pack/pack-v0.40.0/v0.40.0.mod) = d46fd4781975eae347d999af926f52603b11019f7ec72658501b7512987d5dcd
+SIZE (go/sysutils_pack/pack-v0.40.0/v0.40.0.mod) = 7786
+SHA256 (go/sysutils_pack/pack-v0.40.0/v0.40.0.zip) = 99985a89d2ee043ed31ba7c68155360c6d69f784d9724ed67918dae9162810dc
+SIZE (go/sysutils_pack/pack-v0.40.0/v0.40.0.zip) = 25793238
